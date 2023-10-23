@@ -13,5 +13,10 @@
 3. The values of the 'Display' and 'arr' field change because they are updated for every request that comes in.<br><br>
 ## Part 2
 ---
+![Command Line](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/Screenshot%202023-10-22%20at%2011.55.18%20PM.png)
 1. Path to Private Key:/Users/pedroarias/.ssh/id_rsa
 2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub
+
+   ## Part 3
+   ---
+   In weeks 2 and 3 of the lab I learned how to connect to a remote computer and access items inside of its directories. Before I thought it had to be this complicated process to remotely connect to another desktop and to view and transfer files but now I realize that it is as simple(yet still complicated) as inputting a few things in a command line so long as you have the credentials. I found this to be pretty cool as I've never actually remotely accessed a computer before. 
