@@ -13,3 +13,5 @@
 3. The values of the 'Display' and 'arr' field change because they are updated for every request that comes in.<br><br>
 ## Part 2
 ---
+1. Path to Private Key:/Users/pedroarias/.ssh/id_rsa
+2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub
