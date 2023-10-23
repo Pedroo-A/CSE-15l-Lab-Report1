@@ -2,7 +2,7 @@
 ---
 ## *cd Command*
  *cd is a command used to change the current working directory.* <br>
- ![cd Comand Example](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/cdCommand.png)
+ ![cd Comand Example](cdCommand.png)
  1. cd Command with no arguments: <br>
  > Working Directory: /home <br>
 > Input:
@@ -36,7 +36,7 @@ While the output was not an error nothing occurred when using the command.
 <br><br>
 <br><br>
 ## *ls Command*
-![ls Comand Example](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/lsCommand.png)
+![ls Comand Example](lsCommand.png)
 <br>*The ls command is used to list out the files and directories that are in the current directory* <br>
  1. ls Command with no arguments: <br>
 > Working Directory: /home <br>
@@ -68,7 +68,7 @@ The output was not an error
 
 ## *cat Command*
 *The cat command is used to print the contents of one or more files given by the path* <br>
-![cat Comand Example](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/catCommand.png)
+![cat Comand Example](catCommand.png)
 1. cat Command with no arguments: <br>
 > Working Directory: /home <br>
 > Input:
