@@ -48,8 +48,8 @@ While the output was not an error nothing occurred when using the command.
 The output was not an error 
    ---
  2. ls Command with a Path to a Directory: <br>
+ > Working Directory: /home <br>
 > Input:
-> Working Directory: /home <br>
 > `[user@sahara ~]$ ls lecture1/messages` <br>
 > Output:
 > `en-us.txt  es-mx.txt  zh-cn.txt`<br>
