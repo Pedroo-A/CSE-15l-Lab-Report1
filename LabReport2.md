@@ -16,10 +16,10 @@ Second Input Test<br>
 3. The values of the 'Display' and 'arr' field change because they are updated for every request that comes in.<br><br>
 ## Part 2
 ---
-![Command Line](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/Screenshot%202023-10-22%20at%2011.55.18%20PM.png)
+![Command Line](Screenshot%202023-10-22%20at%2011.55.18%20PM.png)
 1. Path to Private Key:/Users/pedroarias/.ssh/id_rsa
 2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub <br> <br>
-![Login with no password](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/ieng6Login-nopasword.png) <br>
+![Login with no password](ieng6Login-nopasword.png) <br>
 *Logging into ieng6 account without needing to input a password password*
 
 ## Part 3
