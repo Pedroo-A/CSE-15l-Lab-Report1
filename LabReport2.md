@@ -1,9 +1,12 @@
 # Lab Report 2
 ---
+Code for StringServer<br>
 ![First Input](StringServercode.png)
 ---
+First Input Test<br>
 ![Code for StringServer](hello.PNG)
 ---
+Second Input Test<br>
 ![Second Input](How%20are%20you.PNG)
 ---
 1. The methods in my code are called 'handleRequest()' located in the Handler class and 'main()' which is located in the StringServer class.
@@ -15,8 +18,10 @@
 ---
 ![Command Line](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/Screenshot%202023-10-22%20at%2011.55.18%20PM.png)
 1. Path to Private Key:/Users/pedroarias/.ssh/id_rsa
-2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub
+2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub <br> <br>
+![Login with no password](https://github.com/Pedroo-A/CSE-15l-Lab-Report1/blob/main/ieng6Login-nopasword.png) <br>
+*Logging into ieng6 account without needing to input a password password*
 
-   ## Part 3
-   ---
+## Part 3
+---
    In weeks 2 and 3 of the lab I learned how to connect to a remote computer and access items inside of its directories. Before I thought it had to be this complicated process to remotely connect to another desktop and to view and transfer files but now I realize that it is as simple(yet still complicated) as inputting a few things in a command line so long as you have the credentials. I found this to be pretty cool as I've never actually remotely accessed a computer before. 
