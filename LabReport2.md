@@ -1,12 +1,12 @@
 # Lab Report 2
 ---
-Code for StringServer<br>
+*Code for StringServer*<br>
 ![First Input](StringServercode.png)
----
-First Input Test<br>
+
+*First Input Test*<br>
 ![Code for StringServer](hello.PNG)
----
-Second Input Test<br>
+
+*Second Input Test*<br>
 ![Second Input](How%20are%20you.PNG)
 ---
 1. The methods in my code are called 'handleRequest()' located in the Handler class and 'main()' which is located in the StringServer class.
@@ -20,7 +20,7 @@ Second Input Test<br>
 1. Path to Private Key:/Users/pedroarias/.ssh/id_rsa
 2. Path To Public Key: /Users/pedroarias/.ssh/id_rsa.pub <br> <br>
 ![Login with no password](ieng6Login-nopasword.png) <br>
-*Logging into ieng6 account without needing to input a password password*
+*Logging into ieng6 account without needing to input a password*
 
 ## Part 3
 ---
